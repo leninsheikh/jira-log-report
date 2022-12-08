@@ -1,0 +1,19 @@
+{
+  "name": "check-jira-log",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.11.11",
+    "axios": "^1.2.1",
+    "dayjs": "^1.11.7",
+    "dotenv": "^16.0.3",
+    "node-cron": "^3.0.2",
+    "nodemailer": "^6.8.0"
+  }
+}
